@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "renasya-official"
+  },
+  "targets": {
+    "renasya-official": {
+      "hosting": {
+        "target1": [
+          "renasya-official"
+        ],
+        "target2": [
+          "renasya"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
